@@ -1,0 +1,2 @@
+A simple script to limit the capistrano releases deleting the oldest ones.
+By default it will leave the 6 newest releases.
